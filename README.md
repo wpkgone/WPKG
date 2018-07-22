@@ -1,1 +1,1 @@
-# WPKG
+# WorldPoker.Game
